@@ -18,7 +18,6 @@ Packages Install
 -body-parser
 -dotenv
 -ejs
--multer
 -express
 -mongoose
 -nodemon
